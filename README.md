@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: บุญทาริกา ก่อกิจโรจน์
+# STUDENT ID: 660610769
